@@ -1,2 +1,2 @@
 # First_Repo
-This is a just basic reporatory!
+This is a just basic repository!
